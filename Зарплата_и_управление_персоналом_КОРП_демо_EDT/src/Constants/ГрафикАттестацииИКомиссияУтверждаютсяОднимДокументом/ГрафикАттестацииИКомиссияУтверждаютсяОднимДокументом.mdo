@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6e3e263c-f1e4-40df-be91-b2f435b9cadc">
+  <producedTypes>
+    <managerType typeId="a3531bcc-b418-40c1-bc87-57440c28f0f8" valueTypeId="2edbe472-f489-426f-a383-0e4e0e221f24"/>
+    <valueManagerType typeId="6f5e058a-270d-4915-88ca-eb9969c53e08" valueTypeId="21f29e8f-a8af-4199-963e-0979cd853634"/>
+    <valueKeyType typeId="f947f79a-1147-5f91-9024-dcb3529233f1" valueTypeId="de554710-88ab-5710-87ee-116fca099aa4"/>
+  </producedTypes>
+  <name>ГрафикАттестацииИКомиссияУтверждаютсяОднимДокументом</name>
+  <synonym>
+    <key>ru</key>
+    <value>График аттестации и комиссия утверждаются одним документом</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
